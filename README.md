@@ -1,5 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
+Generate links previews components built with shadcn/ui and next.js using [link-preview-js](https://github.com/OP-Engineering/link-preview-js)
+
+Work is in progress, making this component for my notes/link management app.
+
+
+![img.png](img.png)
 ## Getting Started
 
 First, run the development server:
