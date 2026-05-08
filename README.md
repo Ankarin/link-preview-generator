@@ -2,7 +2,6 @@
 
 Generate links previews components built with shadcn/ui and next.js using [link-preview-js](https://github.com/OP-Engineering/link-preview-js)
 
-Work is in progress, making this component for my notes/link management app.
 
 ![image](https://github.com/Ankarin/link-preview-generator/assets/34379317/5b1ec62e-4ab5-483d-81c1-d36cf02f546e)
 
